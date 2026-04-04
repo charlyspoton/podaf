@@ -1,6 +1,6 @@
 <br /><br />
 <p align="center">
-    <img alt="PODAF Logo" src="https://github.com/charlyspoton/podaf/blob/main/branding/9.png?raw=true" width="40%">
+    <img alt="PODAF Logo" src="https://github.com/charlyspoton/podaf/blob/main/branding/podaf-logo-retro.png?raw=true" width="40%">
 </p>
 
 <div align="center">
