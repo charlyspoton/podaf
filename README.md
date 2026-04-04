@@ -1,9 +1,7 @@
 <br /><br />
 <p align="center">
-    <img alt="PODAF Logo" src="https://via.placeholder.com/600x200?text=PODAF" width="40%">
+    <img alt="PODAF Logo" src="https://github.com/charlyspoton/podaf/blob/main/branding/9.png?raw=true" width="40%">
 </p>
-
-<p align="center"><b>Data matters and can be simple</b></p>
 
 <div align="center">
 
