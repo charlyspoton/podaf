@@ -20,6 +20,8 @@ The fact that the solution isn't the ultimate goal doesn't mean its design doesn
 
 ## 05. Users buy products, not companies
 
+Users don’t care about your organization, your strategy, or your internal complexity. They care about whether the product works. Don’t sell vision. Don’t sell effort. Deliver something that solves the problem.
+
 ## 06. How we talk matters
 
 We're animals banging on computers. Language determines how our brains connect ideas. Call things by their names. Don't over-explain; the user doesn't need to know how hard you've worked. If they have the data, they'll be happy. Trust your work.
