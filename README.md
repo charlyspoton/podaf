@@ -24,5 +24,15 @@ To achieve this mission, PODAF serves as a doctrine, taking ideas from the most 
 The fundamental principles and motivation of the PODA framework are described in our manifesto
 
 ---
-## How does PODAF fulfill its mission?
+## How does PODAF fulfill the mission?
 
+The mission of the PODA framework assumes that the user's pain point is the need for data, typically to make a decision by reducing uncertainty. To address this pain point, the user needs to find the data (DISCOVERY), capture the data (RESCUE), and use it (EXPLOIT).
+
+Based on this assumption, PODAF articulates the solution through:
+- Conceptualization: analyzing the state of the art, identifying the gaps in other frameworks, and explaining the rationale. Based on the user's pain point and the gaps left by current standards, the PODA values ​​have been defined. These are outlined in our manifesto.
+
+- Semantic Layer: we have defined the elements and actions relevant to the user-data interaction. This allows us to maintain a common language with business matter experts without resorting to technical data jargon. This is defined in our PODA ontology.
+  
+- User guide: This section bridges the gap between the PODA ontology and its practical application. It explains how the defined elements interact, how they map to real user needs, and how they can be combined to solve concrete data problems.
+
+- Tactical Resources: we provide playbooks to meet user needs. Our team comes from the world of data; we know it's not magic. Defined in our PODA tactical resources section
