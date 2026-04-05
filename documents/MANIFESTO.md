@@ -22,9 +22,11 @@ The fact that the solution isn't the ultimate goal doesn't mean its design doesn
 
 ## 06. How we talk matters
 
+We're animals banging on computers. Language determines how our brains connect ideas. Call things by their names. Don't over-explain; the user doesn't need to know how hard you've worked. If they have the data, they'll be happy. Trust your work.
 
+## 07. We are not a racket
 
-## 07. Don´t confundas el camino y la mission: DAMA ha acabado siendo el fin en sí mismo. No crees problemas para asegurar tu futuro. Si optimizar la variable dinero, acabas viviendo del cuento no de solucionar el problema
+The PODA framework exists to solve problems, not to live off them. Be mindful of the incentive to create problems to secure your future.
 
 ## 08. Measure what matters
 
@@ -34,4 +36,6 @@ Being data-driven is a responsibility. Choosing the wrong indicator can put you 
 
 The person who updates an Excel file isn't going anywhere. Sorry, even if you write a beautiful policy or invent a new bureaucratic ritual. The time you spend challenging the problem is an opportunity cost for crafting a solution.
 
-## 10. Love the problem, not the solution
+## 10. Take care of people
+
+We all know Bill, who runs the notebook that keeps the dashboard running every month. Bill doesn't deserve that pressure. That's not work, that's suffering. Give the team tasks they can handle healthily.
