@@ -55,4 +55,4 @@ The team behind it has experience in the tech industry, particularly in the data
 
 The framework reflects a practical perspective shaped by real constraints, not theoretical models. PODAF is not backed by a standards body or a consortium, but by direct experience with the limitations of existing approaches.
 
-PODAF is powered by Spoton Labs. PODAF is licensed under 
+PODAF is powered by Spoton Labs. PODAF is licensed under Apache License 2.0
