@@ -19,3 +19,7 @@ We believe that data matters and can be simple. These are our values:
 ## 08. Measure what matters
 
 Beign data-driven is a responsability. Chosing the wrong indicator can put you in a difficult situation. Chose wisedly
+
+## 09. Accept the reality
+
+The guy updating an excel file will not dissapear. I`m sorry, even if you write a beautiful policy
