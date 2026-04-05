@@ -36,3 +36,23 @@ Based on this assumption, PODAF articulates the solution through:
 - User guide: This section bridges the gap between the PODA ontology and its practical application. It explains how the defined elements interact, how they map to real user needs, and how they can be combined to solve concrete data problems.
 
 - Tactical Resources: we provide playbooks to meet user needs. Our team comes from the world of data; we know it's not magic. Defined in our PODA tactical resources section
+
+## Is PODAF for you?
+
+PODAF is for you if working with data feels unnecessarily hard.
+
+If you find yourself navigating standards, governance models, and best practices that don’t seem written for how you actually work, you’re not alone. Most frameworks are built to organize data at the company level, not to help you use it.
+
+PODAF starts from a different place. It assumes you already know what you need from data. The problem is not defining it, but being able to find it, access it, and use it without friction.
+
+If you’re working on data-intensive products and existing approaches feel disconnected from your reality, PODAF is likely closer to what you’ve been missing.
+
+## Is PODAF for you?
+
+PODAF is developed by practitioners working at the intersection of data and product.
+
+The team behind it has experience in the tech industry, particularly in the data provider space, as well as in finance and defense. It comes from hands-on work building data-intensive systems, where the main challenge is not managing data, but making it usable.
+
+The framework reflects a practical perspective shaped by real constraints, not theoretical models. PODAF is not backed by a standards body or a consortium, but by direct experience with the limitations of existing approaches.
+
+PODAF is powered by Spoton Labs. PODAF is licensed under 
