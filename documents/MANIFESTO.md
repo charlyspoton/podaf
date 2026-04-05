@@ -23,3 +23,5 @@ Beign data-driven is a responsability. Chosing the wrong indicator can put you i
 ## 09. Accept the reality
 
 The guy updating an excel file will not dissapear. I`m sorry, even if you write a beautiful policy
+
+## 10. Love the problem, not the solution
