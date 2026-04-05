@@ -1,12 +1,21 @@
 # PODAF Manifesto
 
-We believe that working with data should be natural.
+We believe that data matters and can be simple. These are our values:
 
-Users do not need to learn how data systems work.  
-They already know what they need.  
-The problem is that data systems rarely make it easy.
+## 01. Reinvent the wheel
 
-Most approaches focus on managing data.  
-We focus on making it usable.
+## 02. Life is easy: Undernegineer
 
-## EASY
+## 03. Serve with empathy
+
+## 04. Taste
+
+## 05. Users buy products, not companies
+
+## 06. How we talk matters
+
+## 07. Don´t confundas el camino y la mission: DAMA ha acabado siendo el fin en sí mismo. No crees problemas para asegurar tu futuro. Si optimizar la variable dinero, acabas viviendo del cuento no de solucionar el problema
+
+## 08. Measure what matters
+
+Beign data-driven is a responsability. Chosing the wrong indicator can put you in a difficult situation. Chose wisedly
