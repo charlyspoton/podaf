@@ -16,9 +16,13 @@ Engineers often say they enjoy solving problems. The reality is that sometimes t
 
 ## 04. Taste
 
+The fact that the solution isn't the ultimate goal doesn't mean its design doesn't matter. The taste for creating the solution is one of our core values. Defining taste is difficult, but Paul Graham is a good starting point.
+
 ## 05. Users buy products, not companies
 
 ## 06. How we talk matters
+
+
 
 ## 07. Don´t confundas el camino y la mission: DAMA ha acabado siendo el fin en sí mismo. No crees problemas para asegurar tu futuro. Si optimizar la variable dinero, acabas viviendo del cuento no de solucionar el problema
 
