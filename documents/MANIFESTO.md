@@ -4,7 +4,7 @@ We believe that data matters and can be simple. These are our values:
 
 ## 01. Reinvent the wheel
 
-Don´t reinvent the wheel is a useful but dangerous advice. We know DAMA exist. We know data field has been there for almost 30 years. We know there were bright people working with data in the past. The fear of reinventing the wheel will not stop us from creating PODA framework. And yes, we think we can add value with a new way to work with data.
+Don´t reinvent the wheel is a useful but dangerous advice. We know DAMA exist. We know the data field has existed for decades. We know there were bright people working with data in the past. The fear of reinventing the wheel will not stop us from creating PODA framework. And yes, we think we can add value with a new way to work with data.
 
 ## 02. Life is easy: Underengineer
 
@@ -12,7 +12,7 @@ Engineers often say they enjoy solving problems. The reality is that sometimes t
 
 ## 03. Serve with empathy
 
-
+Behind every datapoint, there is a person dealing with constrains you don´t see. Don’t blame users for workarounds. Understand why they exist. Respect their context before trying to change it.
 
 ## 04. Taste
 
