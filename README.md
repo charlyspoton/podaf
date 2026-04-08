@@ -47,7 +47,7 @@ PODAF starts from a different place. It assumes you already know what you need f
 
 If you’re working on data-intensive products and existing approaches feel disconnected from your reality, PODAF is likely closer to what you’ve been missing.
 
-## Is PODAF for you?
+## Who's behind PODAF?
 
 PODAF is developed by practitioners working at the intersection of data and product.
 
