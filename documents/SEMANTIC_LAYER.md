@@ -1,8 +1,7 @@
 <br /><br />
 <p align="center">
-    <img alt="PODAF Logo" src="https://github.com/charlyspoton/podaf/blob/main/branding/podaf-logo.png?raw=true" width="40%">
+    <img alt="PODAF Logo" src="https://github.com/charlyspoton/podaf/blob/main/documents/Captura%20de%20pantalla%202026-04-19%20161445.png?raw=true" width="100%">
 </p>
-
 
 # PODA Ontology: semantic layer
 
