@@ -1,3 +1,9 @@
+<br /><br />
+<p align="center">
+    <img alt="PODAF Logo" src="https://github.com/charlyspoton/podaf/blob/main/branding/podaf-logo.png?raw=true" width="40%">
+</p>
+
+
 # PODA Ontology: semantic layer
 
 It's crazy, but one of the biggest problems in the world of data is that we talk about the same thing with different names, in different ways, and from different perspectives. Aligning different stakeholders using a common language already solves a large part of the problem that PODAF is trying to address. So, here we go!
